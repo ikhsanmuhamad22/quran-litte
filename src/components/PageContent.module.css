@@ -1,0 +1,13 @@
+.content {
+  text-align: center;
+  max-height: 100vh;
+}
+
+.image {
+  max-height: 60vh;
+}
+
+h3 {
+  text-decoration: underline;
+  cursor: pointer;
+}
